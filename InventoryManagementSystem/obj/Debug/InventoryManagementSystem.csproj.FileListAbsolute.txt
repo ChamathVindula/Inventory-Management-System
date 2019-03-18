@@ -1,0 +1,78 @@
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesForm.resources
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.NewOrExistingCustomerForm.resources
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageCustomerForm.resources
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageMainForm.resources
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageProductForm.resources
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageSupplierForm.resources
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageOrdersForm.resources
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageCategoryForm.resources
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageEmployeeForm.resources
+c:\users\chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDB.mdf
+C:\Users\Chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDB_log.ldf
+C:\Users\Chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.cs
+C:\Users\Chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.Designer.cs
+C:\Users\Chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.xsc
+C:\Users\Chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.xsd
+C:\Users\Chamath\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.xss
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.cs
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.Designer.cs
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.xsc
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.xsd
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.xss
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDB.mdf
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDB_log.ldf
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageEmployeeForm.resources
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageCategoryForm.resources
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageCustomerForm.resources
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageMainForm.resources
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageOrdersForm.resources
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageProductForm.resources
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageSupplierForm.resources
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.NewOrExistingCustomerForm.resources
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesForm.resources
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\Chamath\Documents\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDB.mdf
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDB_log.ldf
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.cs
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.Designer.cs
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.xsc
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.xsd
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\CompanyDBDataSet.xss
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageEmployeeForm.resources
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageCategoryForm.resources
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageCustomerForm.resources
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageMainForm.resources
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageOrdersForm.resources
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageProductForm.resources
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageSupplierForm.resources
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.NewOrExistingCustomerForm.resources
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesForm.resources
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+D:\swin\Object Oriented Programming\Tutorial_tasks\6.3D\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
