@@ -3,3 +3,8 @@ This is a custom project that I have created using Object Oriented principles to
 This program couples Windows forms with a local sql database. 
 Users can interact and manipulate the database through the Windows form GUI. 
 Different items and user roles are mapped using Classes and higher user classes have inheritted and overridden some of the base functions according to their user access levels and privilages.
+
+What I have learnt from this Project:
+* Object Oriented Concepts 
+* Creation and manipulation od Windows Forms
+* Creation and manipulation of Local Service Based Databases
