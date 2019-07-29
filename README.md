@@ -6,5 +6,5 @@ Different items and user roles are mapped using Classes and higher user classes 
 
 What I have learnt from this Project:
 * Object Oriented Concepts 
-* Creation and manipulation od Windows Forms
+* Creation and manipulation of Windows Forms
 * Creation and manipulation of Local Service Based Databases
